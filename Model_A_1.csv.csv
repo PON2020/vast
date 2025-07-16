@@ -1,0 +1,155 @@
+image_index,image_url,model_response,Choice,Standard Answer,Whether Correct
+1,https://raw.githubusercontent.com/PON2020/vast/main/image1.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a larger area for the eye. The picture on the right has a larger area for the beak. I prefer the picture on the left because the eye looks more like a chicken eye.",L,R,F
+2,https://raw.githubusercontent.com/PON2020/vast/main/image2.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a larger black shape. The picture on the right has a smaller black shape. The picture on the left has a more rounded shape. The picture on the right has a more pointed shape. I prefer the picture on the left because it is more visually appealing.",L,L,T
+3,https://raw.githubusercontent.com/PON2020/vast/main/image3.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a larger black shape. The picture on the right has a smaller black shape. The picture on the left is the better design.",L,L,F
+4,https://raw.githubusercontent.com/PON2020/vast/main/image4.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left is a swirl that goes up and to the right. The picture on the right is a swirl that goes up and to the left. I like the picture on the left better because it is more dynamic.",L,R,F
+5,https://raw.githubusercontent.com/PON2020/vast/main/image5.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a larger area of white showing. The picture on the right has a larger area of black showing. I prefer the picture on the left because it has a larger area of white showing.",L,L,T
+6,https://raw.githubusercontent.com/PON2020/vast/main/image6.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a larger angle than the picture on the right. The picture on the right is a better design.",R,L,F
+7,https://raw.githubusercontent.com/PON2020/vast/main/image7.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has more pieces. The picture on the right has more squares. The picture on the right has more rectangles. The picture on the left has more triangles. The picture on the right has more rectangles. The picture on the left has more pieces. The picture on the right has more squares. The picture on the left has more pieces. The picture on the right has more rectangles. The picture on the left has more triangles. The picture on the right has more rectangles. The picture on the left has more pieces. The picture on the right has more squares. The picture on the left has more pieces. The picture on the right has more rectangles. The picture on the left has more triangles. The picture on the right has more rectangles. The picture on the left has more pieces. The picture on the right has more squares. The picture on the left has more pieces. The picture on the right has more",NA,R,NG
+8,https://raw.githubusercontent.com/PON2020/vast/main/image8.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has more detail and is more chaotic. The picture on the right is simpler and more organized. I prefer the picture on the left because it is more interesting.",L,R,F
+9,https://raw.githubusercontent.com/PON2020/vast/main/image9.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a longer tail than the picture on the right. The picture on the right has a more symmetrical shape. I prefer the picture on the right because it is more balanced.",R,L,F
+10,https://raw.githubusercontent.com/PON2020/vast/main/image10.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a larger area of white than the picture on the right. The picture on the right has a larger area of black than the picture on the left. The picture on the right has a more visible letter ""R"" than the picture on the left. The picture on the left has a more visible letter ""L"" than the picture on the right. The picture on the left has a more visible letter ""L"" than the picture on the right. The picture on the right has a more visible letter ""R"" than the picture on the left. The picture on the left has a more visible letter ""L"" than the picture on the right. The picture on the right has a more visible letter ""R"" than the picture on the left. The picture on the left has a more visible letter ""L"" than the picture on the right. The picture on the right has a more visible letter ""R"" than the picture on the left. The picture on the",NA,L,NG
+11,https://raw.githubusercontent.com/PON2020/vast/main/image11.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: Both images consist of black and white swirls. Image L has a larger swirl. Image R has a smaller swirl. I prefer image L because it is more dynamic.",L,R,F
+12,https://raw.githubusercontent.com/PON2020/vast/main/image12.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a larger area of black. The picture on the right has a larger area of white. I prefer the picture on the right because it has a more interesting design.",R,L,F
+13,https://raw.githubusercontent.com/PON2020/vast/main/image13.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: Both pictures are identical. I can't tell which one is better.",NA,R,NG
+14,https://raw.githubusercontent.com/PON2020/vast/main/image14.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a star that is pointing up and to the left. The picture on the right has a star that is pointing up and to the right. I think the picture on the left is the better design because it is more symmetrical.",L,L,T
+15,https://raw.githubusercontent.com/PON2020/vast/main/image15.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The images are identical.",NA,L,NG
+16,https://raw.githubusercontent.com/PON2020/vast/main/image16.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a larger swirl in the middle. The picture on the right has a larger swirl on the right. I like the picture on the left better. It looks more chaotic and less planned. It looks more like a painting.",L,R,F
+17,https://raw.githubusercontent.com/PON2020/vast/main/image17.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it has a more interesting shape.",R,L,F
+18,https://raw.githubusercontent.com/PON2020/vast/main/image18.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left is a square with a rectangle on it. The picture on the right is a square with a rectangle on it and a triangle on it. I like the picture on the right better because it has more going on.",R,L,F
+19,https://raw.githubusercontent.com/PON2020/vast/main/image19.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: Both pictures are identical. I can't tell which one is better.",NA,L,NG
+20,https://raw.githubusercontent.com/PON2020/vast/main/image20.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left is a swirling design while the picture on the right is a more angular design. I prefer the picture on the left because it is more dynamic and interesting.",L,L,T
+21,https://raw.githubusercontent.com/PON2020/vast/main/image21.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a slightly smaller area than the picture on the right. The picture on the left is a better design.",L,L,T
+22,https://raw.githubusercontent.com/PON2020/vast/main/image22.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a person standing on a cross. The picture on the right has a person standing on a cross. I prefer the picture on the left because the person is standing in a more natural stance.",L,R,F
+23,https://raw.githubusercontent.com/PON2020/vast/main/image23.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a more abstract design. The picture on the right has a more symmetrical design. I prefer the picture on the left because it is more abstract and unique.",L,R,F
+24,https://raw.githubusercontent.com/PON2020/vast/main/image24.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a more chaotic and less organized design. The picture on the right has a more organized and less chaotic design. I prefer the picture on the right because it is easier to understand.",R,R,T
+25,https://raw.githubusercontent.com/PON2020/vast/main/image25.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has 25 circles. The picture on the right has 26 circles. I can't tell which one is the better design.",NA,L,NG
+26,https://raw.githubusercontent.com/PON2020/vast/main/image26.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a larger black area. The picture on the right has a larger white area. I prefer the picture on the right because it has a more interesting design.",R,L,F
+27,https://raw.githubusercontent.com/PON2020/vast/main/image27.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a slightly larger area. The picture on the right has a slightly smaller area. I prefer the picture on the right because it is more symmetrical.",R,R,T
+28,https://raw.githubusercontent.com/PON2020/vast/main/image28.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The left picture is a crocodile while the right picture is a rabbit. I can't decide which one is the better design.",NA,R,NG
+29,https://raw.githubusercontent.com/PON2020/vast/main/image29.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a larger square in the middle. The picture on the right has a larger square on the right. I prefer the picture on the left because it has a larger square in the middle.",L,R,F
+30,https://raw.githubusercontent.com/PON2020/vast/main/image30.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it is more abstract and has more detail.",R,L,F
+31,https://raw.githubusercontent.com/PON2020/vast/main/image31.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left is L and the picture on the right is R. The picture on the left is a diamond and the picture on the right is a diamond. I can't tell which one is the better design. They look the same.",NA,L,F
+32,https://raw.githubusercontent.com/PON2020/vast/main/image32.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The two pictures show two identical black eggs. I can't tell which one is better.",NA,L,F
+33,https://raw.githubusercontent.com/PON2020/vast/main/image33.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left is labeled L and the picture on the right is labeled R. I prefer the picture on the right because the lines are more organized and less chaotic. The picture on the left is more chaotic and less organized.",R,R,T
+34,https://raw.githubusercontent.com/PON2020/vast/main/image34.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a larger black shape. The picture on the right has a smaller black shape. The picture on the left has a more rounded shape. The picture on the right has a more pointed shape. I prefer the picture on the right because it is more unique and interesting.",R,L,F
+35,https://raw.githubusercontent.com/PON2020/vast/main/image35.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a more organic and free flowing design. The picture on the right has a more symmetrical and structured design. I prefer the picture on the left because it is more unique and interesting.",L,R,F
+36,https://raw.githubusercontent.com/PON2020/vast/main/image36.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a larger hat. The picture on the right has a longer neck. I prefer the picture on the right because it looks more modern.",R,L,F
+37,https://raw.githubusercontent.com/PON2020/vast/main/image37.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has 8 pieces and the picture on the right has 9 pieces. The picture on the right is the better design.",R,R,T
+38,https://raw.githubusercontent.com/PON2020/vast/main/image38.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has more detail. The picture on the right has less detail. I prefer the picture on the left because it is more interesting.",L,L,T
+39,https://raw.githubusercontent.com/PON2020/vast/main/image39.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it is more abstract and has more detail.",R,R,T
+40,https://raw.githubusercontent.com/PON2020/vast/main/image40.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a larger black area. The picture on the right has a smaller black area. I prefer the picture on the right because it has a more interesting shape.",R,R,T
+41,https://raw.githubusercontent.com/PON2020/vast/main/image41.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left is a squiggly letter l. The picture on the right is a squiggly letter r. I like the picture on the right better because it looks more like a letter r.",R,R,T
+42,https://raw.githubusercontent.com/PON2020/vast/main/image42.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has more detail and is more chaotic. The picture on the right is simpler and more organized. I prefer the picture on the right.",R,R,T
+43,https://raw.githubusercontent.com/PON2020/vast/main/image43.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The left picture has 4 triangles. The right picture has 5 triangles. The left picture is a better design.",L,L,T
+44,https://raw.githubusercontent.com/PON2020/vast/main/image44.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left is a letter L. The picture on the right is a letter R. I prefer the letter R because it is more unique and interesting. The letter L is just a simple L.",R,L,F
+45,https://raw.githubusercontent.com/PON2020/vast/main/image45.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a more rounded shape. The picture on the right has a more pointed shape. I prefer the picture on the left because it is more visually appealing.",L,R,F
+46,https://raw.githubusercontent.com/PON2020/vast/main/image46.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it has a more dynamic and interesting composition. The lines are more varied and the overall image is more pleasing to the eye.",R,L,F
+47,https://raw.githubusercontent.com/PON2020/vast/main/image47.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left has a larger black area. The picture on the right has a larger white area. I prefer the picture on the right because it has a more interesting design.",R,L,F
+48,https://raw.githubusercontent.com/PON2020/vast/main/image48.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The image on the left has a sail that is not cut off. The image on the right has a sail that is not cut off. The image on the left has a boat that is not cut off. The image on the right has a boat that is not cut off. The image on the left has a boat that is not cut off. The image on the right has a boat that is not cut off. The image on the left has a boat that is not cut off. The image on the right has a boat that is not cut off. The image on the left has a boat that is not cut off. The image on the right has a boat that is not cut off. The image on the left has a boat that is not cut off. The image on the right has a boat that is not cut off. The image on the left has a boat that is not cut off. The image on the right has a boat that is not cut off. The image on the",NA,L,NG
+49,https://raw.githubusercontent.com/PON2020/vast/main/image49.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The image on the left is a dress, while the image on the right is a person. The image on the left is the better design.",L,R,F
+50,https://raw.githubusercontent.com/PON2020/vast/main/image50.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it is more abstract and has a more interesting composition.",R,L,F
+,,,,,
+Correct:,15,,,,
+No answer:,8,,,,
+False:,27,,,,

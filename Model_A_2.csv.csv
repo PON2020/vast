@@ -1,0 +1,155 @@
+image_index,image_url,model_response,,Standard Answer,Wether correct
+1,https://raw.githubusercontent.com/PON2020/vast/main/image1.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+2,https://raw.githubusercontent.com/PON2020/vast/main/image2.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+3,https://raw.githubusercontent.com/PON2020/vast/main/image3.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: L.",L,L,T
+4,https://raw.githubusercontent.com/PON2020/vast/main/image4.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+5,https://raw.githubusercontent.com/PON2020/vast/main/image5.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: L.",L,L,T
+6,https://raw.githubusercontent.com/PON2020/vast/main/image6.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+7,https://raw.githubusercontent.com/PON2020/vast/main/image7.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+8,https://raw.githubusercontent.com/PON2020/vast/main/image8.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+9,https://raw.githubusercontent.com/PON2020/vast/main/image9.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+10,https://raw.githubusercontent.com/PON2020/vast/main/image10.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+11,https://raw.githubusercontent.com/PON2020/vast/main/image11.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+12,https://raw.githubusercontent.com/PON2020/vast/main/image12.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+13,https://raw.githubusercontent.com/PON2020/vast/main/image13.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: I can't tell which one is better. They look the same to me.",NA,R,NG
+14,https://raw.githubusercontent.com/PON2020/vast/main/image14.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+15,https://raw.githubusercontent.com/PON2020/vast/main/image15.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+16,https://raw.githubusercontent.com/PON2020/vast/main/image16.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: I prefer the image on the right. it is more dynamic and seems to be in motion. the image on the left is more static.",R,R,T
+17,https://raw.githubusercontent.com/PON2020/vast/main/image17.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+18,https://raw.githubusercontent.com/PON2020/vast/main/image18.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+19,https://raw.githubusercontent.com/PON2020/vast/main/image19.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: L.",L,L,T
+20,https://raw.githubusercontent.com/PON2020/vast/main/image20.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+21,https://raw.githubusercontent.com/PON2020/vast/main/image21.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+22,https://raw.githubusercontent.com/PON2020/vast/main/image22.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+23,https://raw.githubusercontent.com/PON2020/vast/main/image23.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R. the design on the right is more cohesive and appears to be a single piece. the design on the left is more fragmented and appears to be multiple pieces.",R,R,T
+24,https://raw.githubusercontent.com/PON2020/vast/main/image24.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+25,https://raw.githubusercontent.com/PON2020/vast/main/image25.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+26,https://raw.githubusercontent.com/PON2020/vast/main/image26.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+27,https://raw.githubusercontent.com/PON2020/vast/main/image27.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: L.",L,R,F
+28,https://raw.githubusercontent.com/PON2020/vast/main/image28.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+29,https://raw.githubusercontent.com/PON2020/vast/main/image29.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+30,https://raw.githubusercontent.com/PON2020/vast/main/image30.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+31,https://raw.githubusercontent.com/PON2020/vast/main/image31.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+32,https://raw.githubusercontent.com/PON2020/vast/main/image32.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: I cannot say which one is the better design as they are identical.",NA,L,NG
+33,https://raw.githubusercontent.com/PON2020/vast/main/image33.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+34,https://raw.githubusercontent.com/PON2020/vast/main/image34.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+35,https://raw.githubusercontent.com/PON2020/vast/main/image35.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+36,https://raw.githubusercontent.com/PON2020/vast/main/image36.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: I cannot choose which is the better design. They are both abstract paintings and I like them both.",NA,L,NG
+37,https://raw.githubusercontent.com/PON2020/vast/main/image37.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+38,https://raw.githubusercontent.com/PON2020/vast/main/image38.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+39,https://raw.githubusercontent.com/PON2020/vast/main/image39.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+40,https://raw.githubusercontent.com/PON2020/vast/main/image40.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+41,https://raw.githubusercontent.com/PON2020/vast/main/image41.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+42,https://raw.githubusercontent.com/PON2020/vast/main/image42.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+43,https://raw.githubusercontent.com/PON2020/vast/main/image43.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+44,https://raw.githubusercontent.com/PON2020/vast/main/image44.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+45,https://raw.githubusercontent.com/PON2020/vast/main/image45.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+46,https://raw.githubusercontent.com/PON2020/vast/main/image46.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+47,https://raw.githubusercontent.com/PON2020/vast/main/image47.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: I prefer image L. the design is more symmetrical and the lines are more evenly spaced. image R is more abstract and the lines are not as evenly spaced.",L,L,T
+48,https://raw.githubusercontent.com/PON2020/vast/main/image48.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+49,https://raw.githubusercontent.com/PON2020/vast/main/image49.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,R,T
+50,https://raw.githubusercontent.com/PON2020/vast/main/image50.png.png,"USER:  
+There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
+ASSISTANT: R.",R,L,F
+,,,,,
+Correct:,24,,,,
+No answer:,3,,,,
+FALSE,23,,,,

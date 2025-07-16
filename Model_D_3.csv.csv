@@ -1,0 +1,55 @@
+image_index,image_url,Mistral Classification,Mistral Classification,Standard Answer,,,LLaMA Classification
+1,https://raw.githubusercontent.com/PON2020/vast/main/image1.png.png,Right,Not Given,R,NG,,Right
+2,https://raw.githubusercontent.com/PON2020/vast/main/image2.png.png,Right,Left,L,T,,Right
+3,https://raw.githubusercontent.com/PON2020/vast/main/image3.png.png,Right,Right,L,F,,Right
+4,https://raw.githubusercontent.com/PON2020/vast/main/image4.png.png,Left,Left,R,F,,Right
+5,https://raw.githubusercontent.com/PON2020/vast/main/image5.png.png,Right,Right,L,F,,Right
+6,https://raw.githubusercontent.com/PON2020/vast/main/image6.png.png,Right,Left,L,T,,Right
+7,https://raw.githubusercontent.com/PON2020/vast/main/image7.png.png,Right,Left,R,F,,Right
+8,https://raw.githubusercontent.com/PON2020/vast/main/image8.png.png,Left,Left,R,F,,Right
+9,https://raw.githubusercontent.com/PON2020/vast/main/image9.png.png,Right,Not Given,L,NG,,Right
+10,https://raw.githubusercontent.com/PON2020/vast/main/image10.png.png,Right,Right,L,F,,Left
+11,https://raw.githubusercontent.com/PON2020/vast/main/image11.png.png,Right,Left,R,F,,Left
+12,https://raw.githubusercontent.com/PON2020/vast/main/image12.png.png,Right,Right,L,F,,Right
+13,https://raw.githubusercontent.com/PON2020/vast/main/image13.png.png,Right,Not Given,R,NG,,Left
+14,https://raw.githubusercontent.com/PON2020/vast/main/image14.png.png,Right,Right,L,F,,Left
+15,https://raw.githubusercontent.com/PON2020/vast/main/image15.png.png,Right,Left,L,T,,Right
+16,https://raw.githubusercontent.com/PON2020/vast/main/image16.png.png,Right,Left,R,F,,Right
+17,https://raw.githubusercontent.com/PON2020/vast/main/image17.png.png,Right,Right,L,F,,Right
+18,https://raw.githubusercontent.com/PON2020/vast/main/image18.png.png,Right,Left,L,T,,Right
+19,https://raw.githubusercontent.com/PON2020/vast/main/image19.png.png,Left,Right,L,F,,Left
+20,https://raw.githubusercontent.com/PON2020/vast/main/image20.png.png,Right,Left,L,T,,Right
+21,https://raw.githubusercontent.com/PON2020/vast/main/image21.png.png,Right,Right,L,F,,Left
+22,https://raw.githubusercontent.com/PON2020/vast/main/image22.png.png,Left,Left,R,F,,Left
+23,https://raw.githubusercontent.com/PON2020/vast/main/image23.png.png,Right,Right,R,T,,Left
+24,https://raw.githubusercontent.com/PON2020/vast/main/image24.png.png,Right,Left,R,F,,Right
+25,https://raw.githubusercontent.com/PON2020/vast/main/image25.png.png,Left,Left,L,T,,Left
+26,https://raw.githubusercontent.com/PON2020/vast/main/image26.png.png,Right,Right,L,F,,Left
+27,https://raw.githubusercontent.com/PON2020/vast/main/image27.png.png,Right,Not Given,R,NG,,Left
+28,https://raw.githubusercontent.com/PON2020/vast/main/image28.png.png,Right,Not Given,R,NG,,Left
+29,https://raw.githubusercontent.com/PON2020/vast/main/image29.png.png,Right,Right,R,T,,Right
+30,https://raw.githubusercontent.com/PON2020/vast/main/image30.png.png,Right,Left,L,T,,Right
+31,https://raw.githubusercontent.com/PON2020/vast/main/image31.png.png,Right,Left,L,T,,Right
+32,https://raw.githubusercontent.com/PON2020/vast/main/image32.png.png,Right,Left,L,T,,Left
+33,https://raw.githubusercontent.com/PON2020/vast/main/image33.png.png,Right,Left,R,F,,Right
+34,https://raw.githubusercontent.com/PON2020/vast/main/image34.png.png,Right,Right,L,F,,Left
+35,https://raw.githubusercontent.com/PON2020/vast/main/image35.png.png,Right,Right,R,T,,Left
+36,https://raw.githubusercontent.com/PON2020/vast/main/image36.png.png,Left,Right,L,F,,Right
+37,https://raw.githubusercontent.com/PON2020/vast/main/image37.png.png,Left,Right,R,T,,Left
+38,https://raw.githubusercontent.com/PON2020/vast/main/image38.png.png,Right,Left,L,T,,Left
+39,https://raw.githubusercontent.com/PON2020/vast/main/image39.png.png,Left,Right,R,T,,Right
+40,https://raw.githubusercontent.com/PON2020/vast/main/image40.png.png,Right,Right,R,T,,Left
+41,https://raw.githubusercontent.com/PON2020/vast/main/image41.png.png,Right,Left,R,F,,Right
+42,https://raw.githubusercontent.com/PON2020/vast/main/image42.png.png,Right,Left,R,F,,Left
+43,https://raw.githubusercontent.com/PON2020/vast/main/image43.png.png,Right,Left,L,T,,Left
+44,https://raw.githubusercontent.com/PON2020/vast/main/image44.png.png,Right,Right,L,F,,Left
+45,https://raw.githubusercontent.com/PON2020/vast/main/image45.png.png,Right,Right,R,T,,Left
+46,https://raw.githubusercontent.com/PON2020/vast/main/image46.png.png,Right,Left,L,T,,Right
+47,https://raw.githubusercontent.com/PON2020/vast/main/image47.png.png,Right,Right,L,F,,Left
+48,https://raw.githubusercontent.com/PON2020/vast/main/image48.png.png,Right,Right,L,F,,Left
+49,https://raw.githubusercontent.com/PON2020/vast/main/image49.png.png,Right,Right,R,T,,Left
+50,https://raw.githubusercontent.com/PON2020/vast/main/image50.png.png,Right,Right,L,F,,Left
+,,,,,,,
+Correct:,20,,,,,,
+NA:,5,,,,,,
+False:,25,,,,,,
