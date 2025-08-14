@@ -1,50 +1,50 @@
-image_index,image_url,model_response,model choice,Standard Answer,
+image_index,image_url,model_response,model choice,Standard Answer,accuracy,model,prompt
 1,https://raw.githubusercontent.com/PON2020/vast/main/image1.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are of a face with a frowning expression. The face in the L picture appears to be more detailed and has a slightly different facial structure compared to the R picture. The R picture seems to have a more simplified design, with the face being more straightforward and less detailed.
 
-In terms of design, the L picture is the better choice. Its more detailed facial structure and the subtle differences in the face's appearance make it a more visually engaging and aesthetically pleasing image. The R picture, on the other hand, seems to lack the depth and intricacy of the L picture, making it less appealing in terms of design.",L,R,F
+In terms of design, the L picture is the better choice. Its more detailed facial structure and the subtle differences in the face's appearance make it a more visually engaging and aesthetically pleasing image. The R picture, on the other hand, seems to lack the depth and intricacy of the L picture, making it less appealing in terms of design.",L,R,F,B,5
 2,https://raw.githubusercontent.com/PON2020/vast/main/image2.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures depict a person in a sitting position, possibly a yoga pose. The first picture has a more dynamic and artistic representation of the person, with the person's legs spread out and the upper body in a more relaxed position. The second picture has a more static and minimalist representation of the person, with the legs folded and the upper body in a more upright position.
 
-In terms of design, the first picture is the better choice. The dynamic pose and the artistic representation of the person make the image more visually appealing and engaging. The second picture, on the other hand, appears more static and lacks the artistic flair of the first picture. The choice between the two pictures is clear, with the first picture being the better design.",L,L,T
+In terms of design, the first picture is the better choice. The dynamic pose and the artistic representation of the person make the image more visually appealing and engaging. The second picture, on the other hand, appears more static and lacks the artistic flair of the first picture. The choice between the two pictures is clear, with the first picture being the better design.",L,L,T,B,5
 3,https://raw.githubusercontent.com/PON2020/vast/main/image3.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, and they depict a woman in a flowing dress. The woman in the L picture is more prominently displayed, while the woman in the R picture is slightly obscured.
 
 In terms of design, the L picture appears to be the better choice. The woman in the L picture is more clearly visible, and the overall composition of the image seems more balanced. The R picture, on the other hand, has a slightly cluttered appearance, with the woman's figure partially hidden.
 
-In conclusion, the L picture is the better design, as it presents a more visually appealing and balanced composition.",L,L,T
+In conclusion, the L picture is the better design, as it presents a more visually appealing and balanced composition.",L,L,T,B,5
 4,https://raw.githubusercontent.com/PON2020/vast/main/image4.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with a focus on the letter ""w."" The L picture has a more prominent and larger ""w,"" while the R picture has a smaller and less prominent ""w."" The L picture also has a more intricate and detailed design, with the letter ""w"" being the main subject. On the other hand, the R picture has a more minimalist and simple design, with the letter ""w"" being the only subject.
 
-In my opinion, the L picture is the better design. The larger and more prominent ""w"" draws attention and creates a stronger visual impact. Additionally, the intricate details in the L picture add depth and interest to the composition. The R picture, on the other hand, has a more minimalist approach, which may not be as engaging or memorable as the L picture.",L,R,F
+In my opinion, the L picture is the better design. The larger and more prominent ""w"" draws attention and creates a stronger visual impact. Additionally, the intricate details in the L picture add depth and interest to the composition. The R picture, on the other hand, has a more minimalist approach, which may not be as engaging or memorable as the L picture.",L,R,F,B,5
 5,https://raw.githubusercontent.com/PON2020/vast/main/image5.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, showcasing a contrasting design. The L picture has a more prominent and detailed composition, with a focus on the left side of the image. On the other hand, the R picture has a more abstract and minimalistic design, with a focus on the right side of the image.
 
-In terms of aesthetics, the L picture is the better design. It has a more intricate composition, with a clear distinction between the left and right sides of the image. The R picture, on the other hand, appears more abstract and lacks a clear focal point. The contrasting design of the L picture makes it more visually appealing and engaging.",L,L,T
+In terms of aesthetics, the L picture is the better design. It has a more intricate composition, with a clear distinction between the left and right sides of the image. The R picture, on the other hand, appears more abstract and lacks a clear focal point. The contrasting design of the L picture makes it more visually appealing and engaging.",L,L,T,B,5
 6,https://raw.githubusercontent.com/PON2020/vast/main/image6.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with the left picture having a more prominent black background.
 
 The left picture, labeled L, appears to be a more artistic and visually appealing design. The right picture, labeled R, seems to be a more straightforward and minimalistic design.
 
-In conclusion, the left picture, labeled L, is the better design due to its more artistic and visually appealing nature.",L,L,T
+In conclusion, the left picture, labeled L, is the better design due to its more artistic and visually appealing nature.",L,L,T,B,5
 7,https://raw.githubusercontent.com/PON2020/vast/main/image7.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with a focus on the arrangement of shapes and patterns.
 
 The picture on the left, labeled L, has a more complex and intricate design. The shapes are more interconnected, and the overall composition appears more visually engaging. The picture on the right, labeled R, has a simpler design with fewer shapes and a more straightforward arrangement.
 
-In terms of aesthetics, the picture on the left, labeled L, is the better design. Its intricate patterns and interconnected shapes create a more visually appealing and engaging composition.",L,R,F
+In terms of aesthetics, the picture on the left, labeled L, is the better design. Its intricate patterns and interconnected shapes create a more visually appealing and engaging composition.",L,R,F,B,5
 8,https://raw.githubusercontent.com/PON2020/vast/main/image8.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The left picture, labeled L, features a black and white design with a circular shape. The right picture, labeled R, showcases a more intricate and detailed design, with a combination of black and white, as well as some gray tones. The R picture has a more complex pattern, which makes it stand out more than the L picture.
 
-In terms of aesthetics, the R picture is the better design. Its intricate pattern and the use of gray tones add depth and interest to the image, making it more visually appealing than the L picture. The circular shape in the L picture is simple and not as engaging as the more elaborate design in the R picture.",R,R,T
+In terms of aesthetics, the R picture is the better design. Its intricate pattern and the use of gray tones add depth and interest to the image, making it more visually appealing than the L picture. The circular shape in the L picture is simple and not as engaging as the more elaborate design in the R picture.",R,R,T,B,5
 9,https://raw.githubusercontent.com/PON2020/vast/main/image9.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with the left picture having a more intricate design. The right picture appears to be a simple, clean line drawing.
@@ -53,259 +53,255 @@ The left picture, labeled L, has a more complex design, with a curvy line and a 
 
 In terms of aesthetics, the left picture, labeled L, has a more visually engaging design with its spiral element and curvy line. The right picture, labeled R, has a more minimalist and clean appearance, which may appeal to some viewers.
 
-Based on these observations, the left picture, labeled L, is the better design. Its intricate and visually engaging elements make it stand out from",L,L,T
+Based on these observations, the left picture, labeled L, is the better design. Its intricate and visually engaging elements make it stand out from",L,L,T,B,5
 10,https://raw.githubusercontent.com/PON2020/vast/main/image10.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The two pictures in the image showcase different styles of artwork. The left picture, labeled L, features a more abstract design with a focus on the interplay of light and shadow. The right picture, labeled R, presents a more traditional artistic style, with a focus on the depiction of a car.
 
-In terms of design, the left picture, L, is the better choice. The abstract nature of the artwork allows for a more open interpretation, encouraging viewers to engage with the piece on a deeper level. The interplay of light and shadow adds depth and intrigue to the composition, making it more visually captivating. On the other hand, the right picture, R, is more focused on the depiction of a car, which may not resonate as strongly with viewers who are not car enthusiasts. The traditional style of the artwork may also limit the potential for interpretation and appreciation.",L,L,T
+In terms of design, the left picture, L, is the better choice. The abstract nature of the artwork allows for a more open interpretation, encouraging viewers to engage with the piece on a deeper level. The interplay of light and shadow adds depth and intrigue to the composition, making it more visually captivating. On the other hand, the right picture, R, is more focused on the depiction of a car, which may not resonate as strongly with viewers who are not car enthusiasts. The traditional style of the artwork may also limit the potential for interpretation and appreciation.",L,L,T,B,5
 11,https://raw.githubusercontent.com/PON2020/vast/main/image11.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with a focus on abstract shapes and lines. The L picture has a more prominent and visually striking design, with a strong sense of depth and contrast. The R picture, on the other hand, has a more subtle and delicate appearance, with a softer and more fluid line pattern.
 
-In terms of design, the L picture is the better choice due to its more striking and visually engaging composition. The contrasting lines and the depth of the image create a sense of depth and interest, making it a more captivating and memorable piece of art.",L,R,F
+In terms of design, the L picture is the better choice due to its more striking and visually engaging composition. The contrasting lines and the depth of the image create a sense of depth and interest, making it a more captivating and memorable piece of art.",L,R,F,B,5
 12,https://raw.githubusercontent.com/PON2020/vast/main/image12.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The two pictures in the image are quite different in design. The left picture, labeled L, features a more abstract and chaotic pattern, with a mix of black and white colors. The right picture, labeled R, has a more organized and structured design, with a predominantly black color scheme.
 
 In terms of aesthetics, the left picture, L, appears more visually stimulating and intriguing due to its abstract and chaotic nature. The right picture, R, seems more conventional and less engaging.
 
-Based on these observations, the better design is the left picture, L. Its unique and unconventional pattern captures attention and evokes curiosity, making it a more appealing and memorable piece of art.",L,L,T
+Based on these observations, the better design is the left picture, L. Its unique and unconventional pattern captures attention and evokes curiosity, making it a more appealing and memorable piece of art.",L,L,T,B,5
 13,https://raw.githubusercontent.com/PON2020/vast/main/image13.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with a circular shape in the center. The L picture has a slightly larger circular shape, while the R picture has a slightly smaller circular shape. The L picture also has a slightly more prominent circular shape, making it slightly more visually appealing than the R picture. Overall, the L picture is the better design.",L,R,F
+ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with a circular shape in the center. The L picture has a slightly larger circular shape, while the R picture has a slightly smaller circular shape. The L picture also has a slightly more prominent circular shape, making it slightly more visually appealing than the R picture. Overall, the L picture is the better design.",L,R,F,B,5
 14,https://raw.githubusercontent.com/PON2020/vast/main/image14.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with a star shape as the main design element. The star in the L picture is slightly larger and more prominent, while the star in the R picture is slightly smaller and less prominent.
 
 In terms of design, the L picture has a more balanced and harmonious composition, with the star shape occupying a significant portion of the image. The R picture, on the other hand, has a slightly more cluttered appearance, with the star shape being less prominent and occupying a smaller portion of the image.
 
-Based on these observations, the L picture is the better design, as it exhibits a more balanced and visually appealing composition.",L,L,T
+Based on these observations, the L picture is the better design, as it exhibits a more balanced and visually appealing composition.",L,L,T,B,5
 15,https://raw.githubusercontent.com/PON2020/vast/main/image15.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures have a similar design, with a black and white color scheme and a black ball in the center. The main difference between the two is the orientation of the ball. In the L picture, the ball is positioned horizontally, while in the R picture, the ball is positioned vertically.
 
 In terms of aesthetics, the L picture has a more balanced and symmetrical composition, with the ball occupying a central position. The R picture, on the other hand, has a more dynamic and unconventional arrangement, with the ball standing out more prominently.
 
-Based on these observations, the L picture is the better design, as it exhibits a more harmonious and visually appealing composition.",L,L,T
+Based on these observations, the L picture is the better design, as it exhibits a more harmonious and visually appealing composition.",L,L,T,B,5
 16,https://raw.githubusercontent.com/PON2020/vast/main/image16.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The two pictures in the image are quite different in terms of design. The left picture, labeled L, features a more abstract and chaotic arrangement of lines and shapes, creating a sense of movement and dynamism. The right picture, labeled R, showcases a more structured and organized composition, with a clear focus on the interplay between the lines and shapes.
 
-In terms of aesthetics, the left picture, L, stands out as the better design. Its abstract nature and the way it captures the viewer's attention with its dynamic lines and shapes make it a more visually engaging piece. The right picture, R, while still aesthetically pleasing, lacks the same level of visual interest and impact as the left picture.",L,R,F
+In terms of aesthetics, the left picture, L, stands out as the better design. Its abstract nature and the way it captures the viewer's attention with its dynamic lines and shapes make it a more visually engaging piece. The right picture, R, while still aesthetically pleasing, lacks the same level of visual interest and impact as the left picture.",L,R,F,B,5
 17,https://raw.githubusercontent.com/PON2020/vast/main/image17.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with the left picture having a more detailed and intricate design compared to the right picture. The left picture showcases a more complex pattern, while the right picture has a simpler design.
 
 In terms of aesthetics, the left picture stands out due to its intricate details and the way it captures the viewer's attention. The right picture, on the other hand, has a more straightforward and minimalist design, which may not be as visually engaging as the left picture.
 
-Based on these observations, the left picture is the better design, as it offers a more captivating and visually appealing experience for the viewer.",L,L,T
+Based on these observations, the left picture is the better design, as it offers a more captivating and visually appealing experience for the viewer.",L,L,T,B,5
 18,https://raw.githubusercontent.com/PON2020/vast/main/image18.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with a chair as the main subject. The chair in the L picture is positioned more towards the center, while the chair in the R picture is more towards the left side. The L picture has a slightly more prominent chair, while the R picture has a slightly more prominent background.
 
-In terms of design, the L picture appears to be slightly better. The chair in the L picture is more centrally positioned, which creates a sense of balance and harmony in the composition. Additionally, the black and white color scheme adds a timeless and classic feel to the image. The R picture, on the other hand, has a slightly more prominent background, which may draw attention away from the chair. Overall, the L picture has a more aesthetically pleasing design.",L,L,T
+In terms of design, the L picture appears to be slightly better. The chair in the L picture is more centrally positioned, which creates a sense of balance and harmony in the composition. Additionally, the black and white color scheme adds a timeless and classic feel to the image. The R picture, on the other hand, has a slightly more prominent background, which may draw attention away from the chair. Overall, the L picture has a more aesthetically pleasing design.",L,L,T,B,5
 19,https://raw.githubusercontent.com/PON2020/vast/main/image19.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with a similar design. The main difference between the two is the orientation of the lines. In the L picture, the lines are more densely packed, while in the R picture, the lines are more spread out.
 
 In terms of aesthetics, the L picture has a more intricate and visually engaging design, with the lines creating a sense of depth and complexity. The R picture, on the other hand, has a more straightforward and minimalist appearance, with the lines forming a simple grid pattern.
 
-Based on these observations, the L picture is the better design, as it offers a more visually captivating and intricate composition.",L,L,T
+Based on these observations, the L picture is the better design, as it offers a more visually captivating and intricate composition.",L,L,T,B,5
 20,https://raw.githubusercontent.com/PON2020/vast/main/image20.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The two pictures in the image showcase different artistic styles. The left picture, labeled L, features a more abstract and chaotic design, with a focus on the interplay of black and white colors. The right picture, labeled R, presents a more structured and organized composition, with a mix of black and white, as well as some red accents.
 
 In terms of aesthetics, the left picture, labeled L, stands out due to its unique and unconventional design. The black and white colors create a sense of depth and contrast, while the chaotic arrangement of shapes and lines adds an element of surprise and intrigue. On the other hand, the right picture, labeled R, offers a more traditional and organized approach to art, with the red accents providing a pop of color and a sense of balance.
 
-Ultimately, the better design is the one that resonates more with the viewer's personal",L,L,T
+Ultimately, the better design is the one that resonates more with the viewer's personal",L,L,T,B,5
 21,https://raw.githubusercontent.com/PON2020/vast/main/image21.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with a similar design. The main difference between the two is the orientation of the shapes. The L picture has the shapes oriented horizontally, while the R picture has the shapes oriented vertically.
 
 In terms of aesthetics, the L picture has a more balanced and symmetrical composition, with the shapes evenly distributed across the frame. The R picture, on the other hand, has a more dynamic and visually engaging composition, with the shapes arranged in a vertical line.
 
-Based on these observations, the L picture is the better design. Its balanced composition and symmetrical arrangement of shapes create a sense of harmony and stability, while the R picture's dynamic arrangement of shapes adds visual interest and a sense of movement.",L,L,T
+Based on these observations, the L picture is the better design. Its balanced composition and symmetrical arrangement of shapes create a sense of harmony and stability, while the R picture's dynamic arrangement of shapes adds visual interest and a sense of movement.",L,L,T,B,5
 22,https://raw.githubusercontent.com/PON2020/vast/main/image22.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, and they share a similar artistic style. The main subject in both pictures is a woman, who is the focal point of the images.
 
 The picture on the left, labeled L, has a slightly more dynamic composition, with the woman's figure slightly more prominent. The right picture, labeled R, has a slightly more subdued and calm atmosphere, with the woman's figure slightly more recessed.
 
-In terms of design, the picture on the left, labeled L, is slightly better. The woman's figure is more prominent, and the overall composition is more dynamic. The picture on the right, labeled R, is slightly more subdued and calm, which may appeal to some viewers, but it does not have the same level of visual interest as the left picture.",L,R,F
+In terms of design, the picture on the left, labeled L, is slightly better. The woman's figure is more prominent, and the overall composition is more dynamic. The picture on the right, labeled R, is slightly more subdued and calm, which may appeal to some viewers, but it does not have the same level of visual interest as the left picture.",L,R,F,B,5
 23,https://raw.githubusercontent.com/PON2020/vast/main/image23.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two black and white artworks, one on the left and the other on the right. The left picture, labeled L, is a more intricate and visually appealing design. It showcases a unique and creative arrangement of shapes, which adds depth and interest to the composition. The right picture, labeled R, appears to be a more straightforward and less engaging design. It lacks the complexity and artistic flair of the left picture.
 
-In conclusion, the left picture, labeled L, is the better design due to its more intricate and visually appealing arrangement of shapes. The right picture, labeled R, appears less engaging and lacks the artistic depth of the left picture.",L,R,F
+In conclusion, the left picture, labeled L, is the better design due to its more intricate and visually appealing arrangement of shapes. The right picture, labeled R, appears less engaging and lacks the artistic depth of the left picture.",L,R,F,B,5
 24,https://raw.githubusercontent.com/PON2020/vast/main/image24.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The left picture, labeled L, features a black and white design with a mix of curved and straight lines. The right picture, labeled R, has a more abstract and intricate design, with a combination of curved and straight lines, as well as a few circular shapes.
 
-In terms of aesthetics, the right picture, R, appears to be the better design. It showcases a higher level of complexity and visual interest, with the circular shapes adding an extra layer of depth and intricacy to the overall composition. The left picture, L, while still visually appealing, lacks the same level of complexity and intricacy found in the right picture.",R,R,T
+In terms of aesthetics, the right picture, R, appears to be the better design. It showcases a higher level of complexity and visual interest, with the circular shapes adding an extra layer of depth and intricacy to the overall composition. The left picture, L, while still visually appealing, lacks the same level of complexity and intricacy found in the right picture.",R,R,T,B,5
 25,https://raw.githubusercontent.com/PON2020/vast/main/image25.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with a similar design. The main difference between the two is the size and positioning of the dots. The dots in the L picture are larger and more spread out, while the dots in the R picture are smaller and more clustered together.
 
 In terms of aesthetics, the L picture has a more dynamic and visually engaging design, with the larger dots creating a sense of depth and movement. On the other hand, the R picture has a more minimalist and clean appearance, with the smaller dots creating a sense of simplicity and balance.
 
-Based on these observations, the L picture is the better design, as it offers a more visually interesting and dynamic composition.",L,L,T
+Based on these observations, the L picture is the better design, as it offers a more visually interesting and dynamic composition.",L,L,T,B,5
 26,https://raw.githubusercontent.com/PON2020/vast/main/image26.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The two pictures in the image showcase different artistic styles. The left picture, labeled L, features a more abstract and chaotic design, with a mix of black and white colors. The right picture, labeled R, presents a more structured and organized composition, with a predominantly black color scheme.
 
 In terms of aesthetics, the left picture, L, appears to be more visually engaging and thought-provoking due to its abstract nature and the contrasting colors. The right picture, R, seems to be more straightforward and less intriguing, as it lacks the complexity and intrigue of the left picture.
 
-Based on these observations, the left picture, L, is the better design. Its abstract nature and contrasting colors create a more captivating and thought-provoking visual experience.",L,L,T
+Based on these observations, the left picture, L, is the better design. Its abstract nature and contrasting colors create a more captivating and thought-provoking visual experience.",L,L,T,B,5
 27,https://raw.githubusercontent.com/PON2020/vast/main/image27.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with the left picture having a slightly more contrasting black and white color scheme.
 
 The left picture, labeled L, appears to be a more artistic and visually appealing design. The right picture, labeled R, seems to be a more straightforward and less aesthetically pleasing design.
 
-In conclusion, the left picture, labeled L, is the better design due to its more artistic and visually appealing nature.",L,R,F
+In conclusion, the left picture, labeled L, is the better design due to its more artistic and visually appealing nature.",L,R,F,B,5
 28,https://raw.githubusercontent.com/PON2020/vast/main/image28.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with the left picture having a slightly more contrasting black and white color scheme.
 
 The left picture, labeled L, appears to be a more artistic and visually appealing design. The right picture, labeled R, seems to be a more straightforward and minimalistic design.
 
-In conclusion, the left picture, labeled L, is the better design due to its more artistic and visually appealing nature.",L,R,F
+In conclusion, the left picture, labeled L, is the better design due to its more artistic and visually appealing nature.",L,R,F,B,5
 29,https://raw.githubusercontent.com/PON2020/vast/main/image29.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, showcasing a modern design. The L picture has a more complex structure, with multiple layers and shapes, while the R picture has a more straightforward design, focusing on a single, simple shape.
 
-In terms of aesthetics, the L picture stands out due to its intricate and visually engaging composition. The R picture, on the other hand, has a more minimalist and clean appearance. The choice between the two pictures ultimately depends on personal preferences and the intended purpose of the artwork.",NA,R,NG
+In terms of aesthetics, the L picture stands out due to its intricate and visually engaging composition. The R picture, on the other hand, has a more minimalist and clean appearance. The choice between the two pictures ultimately depends on personal preferences and the intended purpose of the artwork.",NA,R,NG,B,5
 30,https://raw.githubusercontent.com/PON2020/vast/main/image30.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The two pictures in the image showcase different styles of artwork. The left picture, labeled L, features a more abstract and chaotic design, with a mix of black and white colors. The right picture, labeled R, presents a more structured and organized composition, with a predominantly black color scheme.
 
 In terms of aesthetics, the left picture, L, appears to be more visually engaging and thought-provoking due to its abstract nature and the contrasting colors. The right picture, R, seems to be more focused on the arrangement of shapes and lines, which may not be as captivating as the left picture.
 
-Based on these observations, the left picture, L, is the better design. Its abstract nature and contrasting colors create a more intriguing and visually stimulating piece of art.",L,L,T
+Based on these observations, the left picture, L, is the better design. Its abstract nature and contrasting colors create a more intriguing and visually stimulating piece of art.",L,L,T,B,5
 31,https://raw.githubusercontent.com/PON2020/vast/main/image31.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with the left picture having a slightly more contrasting black and white color scheme.
 
 The left picture, labeled L, appears to be a more artistic and visually appealing design. The right picture, labeled R, seems to be a more straightforward and functional design.
 
-In conclusion, the left picture, labeled L, is the better design due to its artistic and visually appealing nature.",L,L,T
+In conclusion, the left picture, labeled L, is the better design due to its artistic and visually appealing nature.",L,L,T,B,5
 32,https://raw.githubusercontent.com/PON2020/vast/main/image32.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with the left picture having a slightly more contrasting black and white color scheme.
 
 The left picture, labeled L, appears to be a more artistic and visually appealing design. The right picture, labeled R, seems to be a more straightforward and minimalistic design.
 
-In conclusion, the left picture, labeled L, is the better design due to its more artistic and visually appealing nature.",L,L,T
+In conclusion, the left picture, labeled L, is the better design due to its more artistic and visually appealing nature.",L,L,T,B,5
 33,https://raw.githubusercontent.com/PON2020/vast/main/image33.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The two pictures in the image showcase different artistic styles. The left picture, labeled L, features a more abstract design with a mix of black and white colors. The right picture, labeled R, displays a more traditional and recognizable pattern, possibly resembling a wave or a flowing water.
 
 In terms of aesthetics, the left picture, L, stands out as it showcases a more unconventional and unique design. The black and white colors create a striking contrast, and the abstract nature of the pattern adds a sense of depth and intrigue to the image. On the other hand, the right picture, R, is more conventional and easily identifiable, which might appeal to a broader audience.
 
-Based on these observations, the left picture, L, is the better design. Its abstract nature and striking contrast of colors make it a more visually engaging piece of art.",L,R,F
+Based on these observations, the left picture, L, is the better design. Its abstract nature and striking contrast of colors make it a more visually engaging piece of art.",L,R,F,B,5
 34,https://raw.githubusercontent.com/PON2020/vast/main/image34.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures showcase a person in a black and white design, possibly a dancer or a runner. The L picture has a more prominent and detailed representation of the person, while the R picture has a slightly less detailed and less prominent portrayal.
 
-In terms of design, the L picture is the better choice. The reason is that the L picture has a more balanced composition, with the person's figure occupying a larger portion of the image. The R picture, on the other hand, has a slightly smaller and less prominent figure, which makes it less visually appealing. Additionally, the L picture has a more refined and intricate line work, which adds to its overall aesthetic appeal.",L,L,T
+In terms of design, the L picture is the better choice. The reason is that the L picture has a more balanced composition, with the person's figure occupying a larger portion of the image. The R picture, on the other hand, has a slightly smaller and less prominent figure, which makes it less visually appealing. Additionally, the L picture has a more refined and intricate line work, which adds to its overall aesthetic appeal.",L,L,T,B,5
 35,https://raw.githubusercontent.com/PON2020/vast/main/image35.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, and they share a similar aesthetic. The L picture has a more prominent and distinct design, while the R picture has a slightly less prominent and less distinct design. The L picture appears to be a more creative and visually appealing piece of art, while the R picture seems to be a more subtle and less striking design. Overall, the L picture is the better design.",L,R,F
+ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, and they share a similar aesthetic. The L picture has a more prominent and distinct design, while the R picture has a slightly less prominent and less distinct design. The L picture appears to be a more creative and visually appealing piece of art, while the R picture seems to be a more subtle and less striking design. Overall, the L picture is the better design.",L,R,F,B,5
 36,https://raw.githubusercontent.com/PON2020/vast/main/image36.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The left picture, labeled L, features a black and white design with a mix of shapes and lines. The right picture, labeled R, showcases a more abstract and intricate pattern, with a combination of black and white elements.
 
-In terms of design, the right picture, R, is the better choice. The intricate pattern and the use of black and white elements create a visually striking and engaging piece of art. The left picture, L, has a more simplistic and less captivating design, with a focus on shapes and lines rather than a complex interplay of colors and patterns.",R,L,F
+In terms of design, the right picture, R, is the better choice. The intricate pattern and the use of black and white elements create a visually striking and engaging piece of art. The left picture, L, has a more simplistic and less captivating design, with a focus on shapes and lines rather than a complex interplay of colors and patterns.",R,L,F,B,5
 37,https://raw.githubusercontent.com/PON2020/vast/main/image37.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with a similar design. The main difference between the two is the orientation of the shapes. The L picture has the shapes oriented horizontally, while the R picture has the shapes oriented vertically.
 
 In terms of aesthetics, the L picture has a more balanced and symmetrical arrangement of shapes, which gives it a more visually appealing appearance. The R picture, on the other hand, has a more dynamic and unconventional arrangement of shapes, which might be more intriguing to some viewers.
 
-Ultimately, the better design is the L picture, as it offers a more balanced and visually pleasing composition.",L,R,F
+Ultimately, the better design is the L picture, as it offers a more balanced and visually pleasing composition.",L,R,F,B,5
 38,https://raw.githubusercontent.com/PON2020/vast/main/image38.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures depict a person in a sitting position, possibly meditating or engaging in a relaxing activity. The person in the left picture is more prominently visible, while the person in the right picture is slightly obscured.
 
 In terms of design, the left picture seems to have a more balanced composition, with the person occupying a central position. The right picture, however, has a more dynamic and interesting arrangement, with the person's legs spread out, creating a sense of movement and energy.
 
-Based on these observations, the better design is the one on the right, as it offers a more engaging and visually appealing composition.",R,L,F
+Based on these observations, the better design is the one on the right, as it offers a more engaging and visually appealing composition.",R,L,F,B,5
 39,https://raw.githubusercontent.com/PON2020/vast/main/image39.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The two pictures in the image showcase different styles of artwork. The left picture, labeled L, features a more abstract and chaotic design, with a mix of black and white colors. The right picture, labeled R, presents a more structured and organized composition, with a predominantly black color scheme.
 
 In terms of aesthetics, the left picture, L, appears to be more visually engaging and thought-provoking due to its abstract nature and the contrasting colors. The right picture, R, seems to be more focused on the arrangement of shapes and lines, which may not be as captivating as the left picture.
 
-Based on these observations, the left picture, L, is the better design. Its abstract nature and contrasting colors create a more intriguing and visually stimulating piece of art.",L,R,F
+Based on these observations, the left picture, L, is the better design. Its abstract nature and contrasting colors create a more intriguing and visually stimulating piece of art.",L,R,F,B,5
 40,https://raw.githubusercontent.com/PON2020/vast/main/image40.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with a similar design. The main difference between the two is the size and orientation of the black shapes. The L picture has larger black shapes, while the R picture has smaller black shapes. The L picture also has a more prominent black shape in the center, while the R picture has a smaller black shape in the center.
 
 In terms of aesthetics, the L picture has a more striking and visually appealing design. The larger black shapes and the prominent central shape create a sense of depth and balance, making the image more engaging. On the other hand, the R picture has a more subtle and less visually striking design. The smaller black shapes and the less prominent central shape make the image feel less dynamic and less engaging.
 
-Based on these observations, the L picture is the better design.",L,R,F
+Based on these observations, the L picture is the better design.",L,R,F,B,5
 41,https://raw.githubusercontent.com/PON2020/vast/main/image41.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The left picture, labeled L, features a black and white design with a mix of shapes and lines. The right picture, labeled R, showcases a more abstract and intricate design, with a combination of shapes and lines that create a visually appealing pattern.
 
-In terms of aesthetics, the right picture, R, stands out as the better design. The intricate pattern and the harmonious blend of shapes and lines make it more visually engaging and captivating. The left picture, L, has a more simplistic and less complex design, which may not be as appealing to the viewer. The right picture, R, demonstrates a higher level of artistic skill and creativity, making it the better design.",R,R,T
+In terms of aesthetics, the right picture, R, stands out as the better design. The intricate pattern and the harmonious blend of shapes and lines make it more visually engaging and captivating. The left picture, L, has a more simplistic and less complex design, which may not be as appealing to the viewer. The right picture, R, demonstrates a higher level of artistic skill and creativity, making it the better design.",R,R,T,B,5
 42,https://raw.githubusercontent.com/PON2020/vast/main/image42.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The two pictures in the image showcase different artistic styles. The left picture, labeled L, features a more abstract and chaotic design, with a mix of black and white colors. The right picture, labeled R, presents a more structured and organized composition, with a predominantly black color scheme.
 
 In terms of aesthetics, the left picture, L, appears to be more visually engaging and thought-provoking due to its abstract nature and the contrasting colors. The right picture, R, seems to be more focused on the arrangement of shapes and lines, which may not be as captivating as the left picture.
 
-Based on these observations, I would choose the left picture, L, as the better design. Its abstract nature and the contrasting colors create a more intriguing and visually stimulating experience.",L,R,F
+Based on these observations, I would choose the left picture, L, as the better design. Its abstract nature and the contrasting colors create a more intriguing and visually stimulating experience.",L,R,F,B,5
 43,https://raw.githubusercontent.com/PON2020/vast/main/image43.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with a focus on geometric shapes. The left picture has a more complex design, with multiple triangles and angles, while the right picture has a simpler design, featuring a single triangle shape.
 
 In terms of aesthetics, the left picture has a more intricate and visually engaging design, with a variety of shapes and angles that create a sense of depth and complexity. The right picture, on the other hand, has a more minimalist and straightforward design, with a single triangle shape that is less visually stimulating.
 
-Based on these observations, the left picture is the better design, as it offers a more visually interesting and engaging experience for the viewer.",L,L,T
+Based on these observations, the left picture is the better design, as it offers a more visually interesting and engaging experience for the viewer.",L,L,T,B,5
 44,https://raw.githubusercontent.com/PON2020/vast/main/image44.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The left picture, labeled L, features a black and white tooth design. The right picture, labeled R, also has a black and white tooth design. Both pictures showcase a tooth with a black outline and a white background.
 
 In terms of aesthetics, the L picture has a slightly more detailed tooth design, with a slightly more prominent black outline. However, both pictures are visually appealing and convey the same concept.
 
-Based on the visual appeal, the L picture is slightly better designed. The black outline is slightly more prominent, and the overall composition of the image is slightly more detailed.",L,L,T
+Based on the visual appeal, the L picture is slightly better designed. The black outline is slightly more prominent, and the overall composition of the image is slightly more detailed.",L,L,T,B,5
 45,https://raw.githubusercontent.com/PON2020/vast/main/image45.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, with the left picture having a more prominent black line, while the right picture has a more prominent white line.
 
 The left picture, labeled L, has a more dynamic and visually engaging design. The black line is more prominent, and the contrast between the black and white elements creates a sense of depth and movement. The right picture, labeled R, has a more minimalist and simple design, with the white line being more prominent. The contrast between the white and black elements is less pronounced, resulting in a more flat and static appearance.
 
-In conclusion, the left picture, labeled L, is the better design due to its more dynamic and visually engaging elements. The contrast between the black and white lines creates a sense of depth and movement, making it a more captivating and interesting image.",L,R,F
+In conclusion, the left picture, labeled L, is the better design due to its more dynamic and visually engaging elements. The contrast between the black and white lines creates a sense of depth and movement, making it a more captivating and interesting image.",L,R,F,B,5
 46,https://raw.githubusercontent.com/PON2020/vast/main/image46.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The two pictures in the image showcase different artistic styles. The left picture, labeled L, features a more abstract design with a mix of black and white colors. The right picture, labeled R, presents a more detailed and intricate design, with a combination of black, white, and gray tones.
 
-In terms of aesthetics, the right picture, R, is the better design. It offers a more complex and visually engaging composition, with a higher level of detail and contrast. The left picture, L, appears more simplistic and lacks the depth and intricacy of the right picture. The choice between the two pictures is clear, as the right picture, R, stands out as the better design.",R,L,F
+In terms of aesthetics, the right picture, R, is the better design. It offers a more complex and visually engaging composition, with a higher level of detail and contrast. The left picture, L, appears more simplistic and lacks the depth and intricacy of the right picture. The choice between the two pictures is clear, as the right picture, R, stands out as the better design.",R,L,F,B,5
 47,https://raw.githubusercontent.com/PON2020/vast/main/image47.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures are black and white, showcasing a sense of artistic expression. The left picture, labeled L, appears to be a more abstract and intricate design, with a focus on the interplay of lines and shapes. On the other hand, the right picture, labeled R, seems to be a more straightforward and minimalist design, with a focus on the contrast between light and shadow.
 
-In terms of aesthetics, the left picture, labeled L, is the better design. The intricate lines and shapes create a visually engaging composition, while the contrasting light and shadow adds depth and complexity to the image. The right picture, labeled R, appears to be more simplistic and lacks the visual interest of the left picture. Overall, the left picture, labeled L, is the better design due to",L,L,T
+In terms of aesthetics, the left picture, labeled L, is the better design. The intricate lines and shapes create a visually engaging composition, while the contrasting light and shadow adds depth and complexity to the image. The right picture, labeled R, appears to be more simplistic and lacks the visual interest of the left picture. Overall, the left picture, labeled L, is the better design due to",L,L,T,B,5
 48,https://raw.githubusercontent.com/PON2020/vast/main/image48.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures depict a sailboat, but the design and details differ. The L picture has a more detailed and intricate sailboat, with a focus on the sails and rigging. On the other hand, the R picture has a more simplified and minimalist design, with a focus on the overall shape and structure of the sailboat.
 
-In terms of aesthetics, the L picture is the better design. It captures the essence of a sailboat with a higher level of detail, making it more visually appealing and engaging. The R picture, while still a decent representation of the sailboat, lacks the depth and intricacy of the L picture, making it less captivating.",L,L,T
+In terms of aesthetics, the L picture is the better design. It captures the essence of a sailboat with a higher level of detail, making it more visually appealing and engaging. The R picture, while still a decent representation of the sailboat, lacks the depth and intricacy of the L picture, making it less captivating.",L,L,T,B,5
 49,https://raw.githubusercontent.com/PON2020/vast/main/image49.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The image features two pictures, one on the left labeled L and the other on the right labeled R. Both pictures showcase a woman wearing a dress. The L picture has a more prominent and detailed design, with the woman's dress being more prominent and the overall composition being more visually appealing. On the other hand, the R picture has a more minimalist design, with the woman's dress being less prominent and the overall composition being less visually engaging.
 
-In conclusion, the L picture is the better design due to its more prominent and detailed composition, which makes it more visually appealing.",L,R,F
+In conclusion, the L picture is the better design due to its more prominent and detailed composition, which makes it more visually appealing.",L,R,F,B,5
 50,https://raw.githubusercontent.com/PON2020/vast/main/image50.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, using your sensitivity to aesthetics to evaluate them. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
 ASSISTANT: The two pictures in the image showcase different styles of artwork. The left picture, labeled L, features a more abstract and chaotic design, with a focus on the interplay of black and white colors. The right picture, labeled R, presents a more structured and organized composition, with a mix of black and white, as well as some red accents.
 
 In terms of aesthetics, the left picture, labeled L, stands out due to its unique and unconventional style. The black and white colors create a sense of depth and contrast, while the chaotic arrangement of the elements adds a sense of dynamism to the piece. On the other hand, the right picture, labeled R, offers a more traditional and organized approach to art. The red accents add a pop of color, and the overall composition is more balanced and harmonious.
 
-Based on these observations, the left picture, labeled L",L,L,T
-,,,,,
-Correct:,28,,,,
-NA:,1,,,,
-False:,21,,,,
+Based on these observations, the left picture, labeled L",L,L,T,B,5

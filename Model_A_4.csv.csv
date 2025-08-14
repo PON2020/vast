@@ -1,155 +1,151 @@
-image_index,image_url,model_response,model Choice,Standard Answer,
+image_index,image_url,model_response,model Choice,Standard Answer,accuracy,model,prompt
 1,https://raw.githubusercontent.com/PON2020/vast/main/image1.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has a more angry look to it. The picture on the right has a more happy look to it. I prefer the picture on the right because it looks more friendly.",R,R,T
+ASSISTANT: The picture on the left has a more angry look to it. The picture on the right has a more happy look to it. I prefer the picture on the right because it looks more friendly.",R,R,T,A,4
 2,https://raw.githubusercontent.com/PON2020/vast/main/image2.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is a 2. The picture on the right is a 1. The picture on the left is a better design because it is more symmetrical.",L,L,T
+ASSISTANT: The picture on the left is a 2. The picture on the right is a 1. The picture on the left is a better design because it is more symmetrical.",L,L,T,A,4
 3,https://raw.githubusercontent.com/PON2020/vast/main/image3.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has a more symmetrical design. The picture on the right has a more unique design. I prefer the picture on the left because it is more symmetrical.",L,L,T
+ASSISTANT: The picture on the left has a more symmetrical design. The picture on the right has a more unique design. I prefer the picture on the left because it is more symmetrical.",L,L,T,A,4
 4,https://raw.githubusercontent.com/PON2020/vast/main/image4.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is a better design. It is more abstract and dynamic. The picture on the right is more symmetrical and less interesting.",R,R,T
+ASSISTANT: The picture on the left is a better design. It is more abstract and dynamic. The picture on the right is more symmetrical and less interesting.",R,R,T,A,4
 5,https://raw.githubusercontent.com/PON2020/vast/main/image5.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has a more abstract design. The picture on the right has a more realistic design. I prefer the picture on the left because it is more abstract.",L,L,T
+ASSISTANT: The picture on the left has a more abstract design. The picture on the right has a more realistic design. I prefer the picture on the left because it is more abstract.",L,L,T,A,4
 6,https://raw.githubusercontent.com/PON2020/vast/main/image6.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is a square while the picture on the right is a rhombus. The picture on the left is the better design.",L,L,T
+ASSISTANT: The picture on the left is a square while the picture on the right is a rhombus. The picture on the left is the better design.",L,L,T,A,4
 7,https://raw.githubusercontent.com/PON2020/vast/main/image7.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has more pieces. The picture on the right has more squares. The picture on the right is the better design.",R,R,T
+ASSISTANT: The picture on the left has more pieces. The picture on the right has more squares. The picture on the right is the better design.",R,R,T,A,4
 8,https://raw.githubusercontent.com/PON2020/vast/main/image8.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it is more abstract and has more detail.",R,R,T
+ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it is more abstract and has more detail.",R,R,T,A,4
 9,https://raw.githubusercontent.com/PON2020/vast/main/image9.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is a 9. The picture on the right is a 9.5. The picture on the right is the better design.",R,L,F
+ASSISTANT: The picture on the left is a 9. The picture on the right is a 9.5. The picture on the right is the better design.",R,L,F,A,4
 10,https://raw.githubusercontent.com/PON2020/vast/main/image10.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it is more abstract and dynamic. The lines are more fluid and the overall composition is more pleasing to the eye.",R,L,F
+ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it is more abstract and dynamic. The lines are more fluid and the overall composition is more pleasing to the eye.",R,L,F,A,4
 11,https://raw.githubusercontent.com/PON2020/vast/main/image11.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: Both images are abstract paintings. Image L has a more chaotic and less organized appearance. Image R has a more organized appearance. Image R is the better design.",R,R,F
+ASSISTANT: Both images are abstract paintings. Image L has a more chaotic and less organized appearance. Image R has a more organized appearance. Image R is the better design.",R,R,F,A,4
 12,https://raw.githubusercontent.com/PON2020/vast/main/image12.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it has a more dynamic and interesting composition. The lines are more varied and the overall image is more pleasing to the eye.",R,L,F
+ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it has a more dynamic and interesting composition. The lines are more varied and the overall image is more pleasing to the eye.",R,L,F,A,4
 13,https://raw.githubusercontent.com/PON2020/vast/main/image13.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: Both pictures are identical. I cannot choose between them. They are both equally appealing.",NA,R,NG
+ASSISTANT: Both pictures are identical. I cannot choose between them. They are both equally appealing.",NA,R,NG,A,4
 14,https://raw.githubusercontent.com/PON2020/vast/main/image14.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The star on the left is slightly larger than the star on the right. The star on the left is more aesthetically appealing.",L,L,T
+ASSISTANT: The star on the left is slightly larger than the star on the right. The star on the left is more aesthetically appealing.",L,L,T,A,4
 15,https://raw.githubusercontent.com/PON2020/vast/main/image15.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The images are identical. Both are poor designs. I cannot choose between them.",NA,L,NG
+ASSISTANT: The images are identical. Both are poor designs. I cannot choose between them.",NA,L,NG,A,4
 16,https://raw.githubusercontent.com/PON2020/vast/main/image16.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has a more chaotic and unorganized design. The picture on the right has a more organized and symmetrical design. I prefer the picture on the right because it is more visually appealing.",R,R,T
+ASSISTANT: The picture on the left has a more chaotic and unorganized design. The picture on the right has a more organized and symmetrical design. I prefer the picture on the right because it is more visually appealing.",R,R,T,A,4
 17,https://raw.githubusercontent.com/PON2020/vast/main/image17.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is L and the picture on the right is R. The picture on the left has a wider range of shades of black. The picture on the right has a narrower range of shades of black. The picture on the left is the better design.",L,L,T
+ASSISTANT: The picture on the left is L and the picture on the right is R. The picture on the left has a wider range of shades of black. The picture on the right has a narrower range of shades of black. The picture on the left is the better design.",L,L,T,A,4
 18,https://raw.githubusercontent.com/PON2020/vast/main/image18.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The left image has a more symmetrical design. The right image has a more chaotic design. I prefer the left image because it is more symmetrical.",L,L,T
+ASSISTANT: The left image has a more symmetrical design. The right image has a more chaotic design. I prefer the left image because it is more symmetrical.",L,L,T,A,4
 19,https://raw.githubusercontent.com/PON2020/vast/main/image19.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: Both pictures are identical. I cannot choose between them. They are both good designs.",NA,L,NG
+ASSISTANT: Both pictures are identical. I cannot choose between them. They are both good designs.",NA,L,NG,A,4
 20,https://raw.githubusercontent.com/PON2020/vast/main/image20.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is a letter l. The picture on the right is a letter b. I prefer the picture on the left because it is more abstract and less recognizable as a letter. I prefer the picture on the right because it is more recognizable as a letter and easier to read.",R,L,F
+ASSISTANT: The picture on the left is a letter l. The picture on the right is a letter b. I prefer the picture on the left because it is more abstract and less recognizable as a letter. I prefer the picture on the right because it is more recognizable as a letter and easier to read.",R,L,F,A,4
 21,https://raw.githubusercontent.com/PON2020/vast/main/image21.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The two pictures are identical. They are both of the same design and appeal. I cannot choose between them.",NA,L,NG
+ASSISTANT: The two pictures are identical. They are both of the same design and appeal. I cannot choose between them.",NA,L,NG,A,4
 22,https://raw.githubusercontent.com/PON2020/vast/main/image22.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has a person standing on a cross. The picture on the right has a person standing on a cross. I prefer the picture on the left because the person is standing in a more natural stance.",L,R,F
+ASSISTANT: The picture on the left has a person standing on a cross. The picture on the right has a person standing on a cross. I prefer the picture on the left because the person is standing in a more natural stance.",L,R,F,A,4
 23,https://raw.githubusercontent.com/PON2020/vast/main/image23.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has a more chaotic and random appearance. The picture on the right has a more organized and intentional appearance. The picture on the right is the better design.",R,R,T
+ASSISTANT: The picture on the left has a more chaotic and random appearance. The picture on the right has a more organized and intentional appearance. The picture on the right is the better design.",R,R,T,A,4
 24,https://raw.githubusercontent.com/PON2020/vast/main/image24.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has a more chaotic and less organized design. The picture on the right has a more organized and less chaotic design. I prefer the picture on the right because it is more visually appealing.",R,R,T
+ASSISTANT: The picture on the left has a more chaotic and less organized design. The picture on the right has a more organized and less chaotic design. I prefer the picture on the right because it is more visually appealing.",R,R,T,A,4
 25,https://raw.githubusercontent.com/PON2020/vast/main/image25.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has more black circles. The picture on the right has more white space. The picture on the left is more chaotic. The picture on the right is more organized. The picture on the right is the better design.",R,L,F
+ASSISTANT: The picture on the left has more black circles. The picture on the right has more white space. The picture on the left is more chaotic. The picture on the right is more organized. The picture on the right is the better design.",R,L,F,A,4
 26,https://raw.githubusercontent.com/PON2020/vast/main/image26.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has a more chaotic and less organized design. The picture on the right has a more organized and less chaotic design. I prefer the picture on the right because it is more organized and less chaotic.",R,L,F
+ASSISTANT: The picture on the left has a more chaotic and less organized design. The picture on the right has a more organized and less chaotic design. I prefer the picture on the right because it is more organized and less chaotic.",R,L,F,A,4
 27,https://raw.githubusercontent.com/PON2020/vast/main/image27.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is a little more rounded than the picture on the right. I prefer the picture on the right because it is a little more symmetrical.",R,R,T
+ASSISTANT: The picture on the left is a little more rounded than the picture on the right. I prefer the picture on the right because it is a little more symmetrical.",R,R,T,A,4
 28,https://raw.githubusercontent.com/PON2020/vast/main/image28.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: Both images are identical in shape and size. The only difference is that one image has a cut on the left side and the other image has a cut on the right side. I cannot say which one is better.",NA,R,NG
+ASSISTANT: Both images are identical in shape and size. The only difference is that one image has a cut on the left side and the other image has a cut on the right side. I cannot say which one is better.",NA,R,NG,A,4
 29,https://raw.githubusercontent.com/PON2020/vast/main/image29.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has a more symmetrical design. The picture on the right has a more chaotic design. I prefer the picture on the left because it is more symmetrical.",L,R,F
+ASSISTANT: The picture on the left has a more symmetrical design. The picture on the right has a more chaotic design. I prefer the picture on the left because it is more symmetrical.",L,R,F,A,4
 30,https://raw.githubusercontent.com/PON2020/vast/main/image30.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it is more abstract and has more detail. The picture on the left is not as abstract and does not have as much detail.",R,L,F
+ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it is more abstract and has more detail. The picture on the left is not as abstract and does not have as much detail.",R,L,F,A,4
 31,https://raw.githubusercontent.com/PON2020/vast/main/image31.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The two pictures are identical. They are both square and black. They are the same design. They are equally appealing. I cannot choose between them.",NA,L,NG
+ASSISTANT: The two pictures are identical. They are both square and black. They are the same design. They are equally appealing. I cannot choose between them.",NA,L,NG,A,4
 32,https://raw.githubusercontent.com/PON2020/vast/main/image32.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The two pictures are identical. They are both of a black egg on a white background. It is not possible to choose between them based on aesthetics appeal.",NA,L,NG
+ASSISTANT: The two pictures are identical. They are both of a black egg on a white background. It is not possible to choose between them based on aesthetics appeal.",NA,L,NG,A,4
 33,https://raw.githubusercontent.com/PON2020/vast/main/image33.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: Both pictures are of abstract art. Picture L has a zig zag pattern while picture R has a swirling pattern. I prefer picture R because the swirling pattern is more pleasing to the eye.",R,R,T
+ASSISTANT: Both pictures are of abstract art. Picture L has a zig zag pattern while picture R has a swirling pattern. I prefer picture R because the swirling pattern is more pleasing to the eye.",R,R,T,A,4
 34,https://raw.githubusercontent.com/PON2020/vast/main/image34.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is a 34 and the picture on the right is a 34. I prefer the picture on the right because it is more symmetrical.",R,L,F
+ASSISTANT: The picture on the left is a 34 and the picture on the right is a 34. I prefer the picture on the right because it is more symmetrical.",R,L,F,A,4
 35,https://raw.githubusercontent.com/PON2020/vast/main/image35.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has a more organic and free flowing design. The picture on the right has a more symmetrical and structured design. I prefer the picture on the left because it is more aesthetically appealing.",L,R,F
+ASSISTANT: The picture on the left has a more organic and free flowing design. The picture on the right has a more symmetrical and structured design. I prefer the picture on the left because it is more aesthetically appealing.",L,R,F,A,4
 36,https://raw.githubusercontent.com/PON2020/vast/main/image36.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has a larger area of white space. The picture on the right has a larger area of black space. I prefer the picture on the left because it has a larger area of white space.",L,L,T
+ASSISTANT: The picture on the left has a larger area of white space. The picture on the right has a larger area of black space. I prefer the picture on the left because it has a larger area of white space.",L,L,T,A,4
 37,https://raw.githubusercontent.com/PON2020/vast/main/image37.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has more triangles. The picture on the right has more variety in the triangles. The picture on the right is the better design.",R,R,T
+ASSISTANT: The picture on the left has more triangles. The picture on the right has more variety in the triangles. The picture on the right is the better design.",R,R,T,A,4
 38,https://raw.githubusercontent.com/PON2020/vast/main/image38.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has more detail and is more interesting. The picture on the right is simpler and less appealing.",L,L,T
+ASSISTANT: The picture on the left has more detail and is more interesting. The picture on the right is simpler and less appealing.",L,L,T,A,4
 39,https://raw.githubusercontent.com/PON2020/vast/main/image39.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right as it is more symmetrical and the lines are more evenly spaced.",R,R,T
+ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right as it is more symmetrical and the lines are more evenly spaced.",R,R,T,A,4
 40,https://raw.githubusercontent.com/PON2020/vast/main/image40.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The image on the left has a larger black area. The image on the right has a smaller black area. I prefer the image on the right because it has a more interesting shape.",R,R,T
+ASSISTANT: The image on the left has a larger black area. The image on the right has a smaller black area. I prefer the image on the right because it has a more interesting shape.",R,R,T,A,4
 41,https://raw.githubusercontent.com/PON2020/vast/main/image41.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is a squiggly letter l. The picture on the right is a squiggly letter r. I like the picture on the right better because it looks more like a letter r.",R,R,T
+ASSISTANT: The picture on the left is a squiggly letter l. The picture on the right is a squiggly letter r. I like the picture on the right better because it looks more like a letter r.",R,R,T,A,4
 42,https://raw.githubusercontent.com/PON2020/vast/main/image42.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has more detail and is more chaotic. The picture on the right is more symmetrical and has less detail. I prefer the picture on the left because it is more interesting.",L,R,F
+ASSISTANT: The picture on the left has more detail and is more chaotic. The picture on the right is more symmetrical and has less detail. I prefer the picture on the left because it is more interesting.",L,R,F,A,4
 43,https://raw.githubusercontent.com/PON2020/vast/main/image43.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The left image has 4 triangles and the right image has 5 triangles. The right image has more triangles. The right image is the better design.",R,L,F
+ASSISTANT: The left image has 4 triangles and the right image has 5 triangles. The right image has more triangles. The right image is the better design.",R,L,F,A,4
 44,https://raw.githubusercontent.com/PON2020/vast/main/image44.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is a simple shape while the picture on the right is a more complex shape. The picture on the left is a better design.",L,L,T
+ASSISTANT: The picture on the left is a simple shape while the picture on the right is a more complex shape. The picture on the left is a better design.",L,L,T,A,4
 45,https://raw.githubusercontent.com/PON2020/vast/main/image45.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is L and the picture on the right is R. The picture on the left has a more symmetrical shape than the picture on the right. The picture on the right has a more unique shape than the picture on the left. I prefer the picture on the right because it is more interesting.",R,R,T
+ASSISTANT: The picture on the left is L and the picture on the right is R. The picture on the left has a more symmetrical shape than the picture on the right. The picture on the right has a more unique shape than the picture on the left. I prefer the picture on the right because it is more interesting.",R,R,T,A,4
 46,https://raw.githubusercontent.com/PON2020/vast/main/image46.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it has a more dynamic and interesting composition. The lines are more varied and the overall image is more pleasing to the eye.",R,L,F
+ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it has a more dynamic and interesting composition. The lines are more varied and the overall image is more pleasing to the eye.",R,L,F,A,4
 47,https://raw.githubusercontent.com/PON2020/vast/main/image47.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left has a more symmetrical design. The picture on the right has a more chaotic design. I prefer the picture on the left because it is more aesthetically appealing.",L,L,T
+ASSISTANT: The picture on the left has a more symmetrical design. The picture on the right has a more chaotic design. I prefer the picture on the left because it is more aesthetically appealing.",L,L,T,A,4
 48,https://raw.githubusercontent.com/PON2020/vast/main/image48.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The image on the left is a sailboat with a square sail. The image on the right is a sailboat with a triangular sail. I prefer the image on the right because it is more realistic.",R,L,F
+ASSISTANT: The image on the left is a sailboat with a square sail. The image on the right is a sailboat with a triangular sail. I prefer the image on the right because it is more realistic.",R,L,F,A,4
 49,https://raw.githubusercontent.com/PON2020/vast/main/image49.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The image on the left is a dress, while the image on the right is a person. The image on the left is a better design because it is more aesthetically appealing.",L,R,F
+ASSISTANT: The image on the left is a dress, while the image on the right is a person. The image on the left is a better design because it is more aesthetically appealing.",L,R,F,A,4
 50,https://raw.githubusercontent.com/PON2020/vast/main/image50.png.png,"USER:  
 There are two pictures in this image: the one on the left is labeled L, and the one on the right is labeled R. Describe both pictures, and compare them in terms of their aesthetics appeal. Then tell me which one is the better design. You must make a clear and unambiguous choice, and justify it. Keep your response under 200 words.
-ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it is more abstract and has a more interesting composition.",R,L,F
-,,,,,
-Correct:,25,,,,
-NA:,7,,,,
-False:,18,,,,
+ASSISTANT: The picture on the left is L and the picture on the right is R. I prefer the picture on the right because it is more abstract and has a more interesting composition.",R,L,F,A,4
